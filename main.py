@@ -146,3 +146,5 @@ if __name__ == "__main__":
 # PR Merge: 2025-10-17 - enhancement/merge-2361
 
 # PR Merge: 2025-10-17 - docs/merge-5993
+
+# PR Merge: 2025-10-17 - fix/merge-7359
